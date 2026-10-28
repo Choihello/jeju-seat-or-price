@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+data/external/airportal_daily_airports.jsonl
+data/platform/revisions.csv
+data/platform/refresh_log.csv
+sealed/test_*
